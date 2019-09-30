@@ -1,4 +1,5 @@
 # Create your haunted_houses migration here
+<<<<<<< HEAD
 class CreateHauntedHouses < ActiveRecord::Migration[5.2]
     
     def change
@@ -18,3 +19,6 @@ class CreateHauntedHouses < ActiveRecord::Migration[5.2]
       end 
 
 end 
+=======
+
+>>>>>>> 4c105721607f018c40bf9966e8a3e8940ca1c54c
